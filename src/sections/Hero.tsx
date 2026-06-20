@@ -74,7 +74,7 @@ export default function Hero() {
           </button>
 
           <a
-            href="https://arogya.ai"
+            href="https://arogya.jaykj.xyz"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-2 rounded-[7px] border border-white/[0.1] bg-white/[0.04] px-4 py-2 font-sans text-[13px] font-[400] tracking-[-0.01em] text-[#a3a3a3] transition-all duration-150 hover:border-white/[0.18] hover:bg-white/[0.07] hover:text-white active:scale-[0.98] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#3ecf8e] focus-visible:ring-offset-2 focus-visible:ring-offset-[#0a0a0a]"

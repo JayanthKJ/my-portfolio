@@ -9,8 +9,8 @@ export const PROJECTS: Project[] = [
       "Designed around a strict separation between the LLM layer and the data layer — the model never touches health records directly. Built for async-first load patterns with Redis-backed session state and a FastAPI core that stays under 120ms p99.",
     stack: ["Python", "FastAPI", "PostgreSQL", "Redis", "Gemini API", "Docker"],
     badge: "Production",
-    live: "https://arogya.ai",
-    github: "https://github.com/jaykj/arogya-ai",
+    live: "https://arogya.jaykj.xyz",
+    github: "https://github.com/JayanthKJ/arogya-ai",
     featured: true,
   },
   {
@@ -21,7 +21,7 @@ export const PROJECTS: Project[] = [
       "Built under hackathon constraints — 24hrs from schema design to deployed backend. AI layer handles unit normalization across inconsistent input formats.",
     stack: ["TypeScript", "Next.js", "Python", "Gemini API", "PostgreSQL"],
     badge: "Hackathon",
-    github: "https://github.com/jaykj/carbontrack",
+    github: "https://github.com/JayanthKJ/EcoGridAI",
   },
   {
     title: "JusticeChain AI",
@@ -31,6 +31,6 @@ export const PROJECTS: Project[] = [
       "AI summarization is scoped to specific document sections with source citations preserved. Audit trail is append-only by design.",
     stack: ["TypeScript", "React", "FastAPI", "Gemini API", "Vector DB"],
     badge: "Hackathon",
-    github: "https://github.com/jaykj/justicechain",
+    github: "https://github.com/JayanthKJ/5-pillars",
   },
 ];

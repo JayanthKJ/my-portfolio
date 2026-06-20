@@ -1,9 +1,9 @@
 import { cn } from "../../lib/cn";
 
 const SOCIAL_LINKS = [
-  { label: "GitHub",   href: "https://github.com/jaykj",          external: true  },
-  { label: "LinkedIn", href: "https://linkedin.com/in/jaykj",     external: true  },
-  { label: "Email",    href: "mailto:hey@jaykj.xyz",              external: false },
+  { label: "GitHub",   href: "https://github.com/JayanthKJ",          external: true  },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/jayanth-k-j",     external: true  },
+  { label: "Email",    href: "mailto:jayanthkj92@gmail.com",              external: false },
 ] as const;
 
 const NAV_LINKS = [

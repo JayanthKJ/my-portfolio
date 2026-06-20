@@ -21,7 +21,7 @@ export default function About() {
         <div className="grid grid-cols-1 gap-12 md:grid-cols-[1fr_220px]">
           <div className="space-y-5">
             <p className="font-sans text-[0.9375rem] leading-[1.75] text-[#8a8a8a]">
-              CS student at <span className="text-[#d4d4d4]">PES University</span>, focused on the parts of the stack that are hardest to get right: backend systems, deployment pipelines, and AI integration that holds up outside a demo.
+              CS student at <span className="text-[#d4d4d4]">JSS Science and Technology University</span>, focused on the parts of the stack that are hardest to get right: backend systems, deployment pipelines, and AI integration that holds up outside a demo.
             </p>
             <p className="font-sans text-[0.9375rem] leading-[1.75] text-[#8a8a8a]">
               Most of my time goes toward service architecture: clean data models, boring deploys, useful observability, and APIs that stay understandable as the product grows.
@@ -37,7 +37,7 @@ export default function About() {
           <aside className="rounded-[10px] border border-white/[0.09] bg-[#121212] p-5">
             <div className="space-y-4">
               {([
-                { key: "based", val: "Bengaluru, IN", accent: false },
+                { key: "based", val: "Mysuru, IN", accent: false },
                 { key: "focus", val: "backend · AI · infra", accent: false },
                 { key: "status", val: "open to work", accent: true },
               ] as const).map(({ key, val, accent }) => (

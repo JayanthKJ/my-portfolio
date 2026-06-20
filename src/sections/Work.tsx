@@ -73,7 +73,7 @@ export default function Work() {
       <div className="mx-auto w-full max-w-[720px]">
         <div className="mb-10 flex items-end justify-between">
           <p className="font-mono text-[11px] tracking-[0.1em] uppercase text-[#3a3a3a]">Work</p>
-          <a href="https://github.com/jaykj" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/JayanthKJ" target="_blank" rel="noopener noreferrer"
             className="group inline-flex items-center gap-1.5 font-mono text-[11px] text-[#3a3a3a] transition-colors duration-150 hover:text-[#737373]">
             All repos
             <svg aria-hidden="true" width="13" height="13" viewBox="0 0 13 13" fill="none" className="transition-transform duration-150 group-hover:translate-x-0.5">
@@ -87,9 +87,9 @@ export default function Work() {
         </div>
         <p className="mt-8 font-mono text-[11px] text-[#3a3a3a]">
           More on{" "}
-          <a href="https://github.com/jaykj" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/JayanthKJ" target="_blank" rel="noopener noreferrer"
             className="text-[#525252] underline underline-offset-2 transition-colors duration-150 hover:text-[#737373]">
-            github.com/jaykj
+            github.com/JayanthKJ
           </a>
         </p>
       </div>
